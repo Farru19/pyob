@@ -49,7 +49,3 @@ print(Hsdjskfj)
 
 ## License
 This project is licensed under the MIT License.
-
-## Author
-Created by Farhan, a cybersecurity student interested in security and Python scripting.
-
